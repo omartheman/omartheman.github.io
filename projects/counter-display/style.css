@@ -1,4 +1,26 @@
 html, body {
   height: 100%;
   width: 100%;
+  font-family: sans-serif;
+}
+
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+#number-display-text {
+  text-align: center;
+  font-family: sans-serif;
+  margin-bottom: 10px;
+}
+
+button {
+  background: purple;
+  color: white; 
+  border: none; 
+  padding: 10px 20px; 
+  border-radius: 5px;
+  cursor: pointer; 
 }
