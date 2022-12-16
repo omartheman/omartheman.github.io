@@ -1,0 +1,9 @@
+{
+  "workbench.colorCustomizations": {
+    "editor.findMatchBackground": "#520036d2",
+    "scrollbarSlider.background": "#3e3e3e",
+    "activityBar.background": "#033520",
+    "titleBar.activeBackground": "#044B2D",
+    "titleBar.activeForeground": "#ECFEF6"
+  }
+}
