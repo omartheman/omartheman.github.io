@@ -8,6 +8,10 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
+  background-image: url(confetti.jpg);
+  background-position: center;
+  background-size: cover;
+
 }
 
 #number-display-text {
@@ -23,4 +27,10 @@ button {
   padding: 10px 20px; 
   border-radius: 5px;
   cursor: pointer; 
+}
+
+#counter-container {
+  background-color: rgba(255, 255, 255, 0.753);
+  padding: 30px 50px; 
+  border-radius: 20px; 
 }
